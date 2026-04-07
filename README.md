@@ -42,5 +42,5 @@ Italian (B2) · English (C1) · Chinese (B1) · Russian (Native)
 
 ## Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kamila-sh)
-- 📧 shahpazova.kamila@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/kamila-sh)
+-  shahpazova.kamila@gmail.com
