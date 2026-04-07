@@ -1,12 +1,16 @@
-# 👋 Hi, I'm Kamila Shakhpazova
+# Kamila Shakhpazova
 
 ### Data Analyst | AI & Data Science | Python · SQL · Power BI
 
-> Welcome to my GitHub! Below you'll find my data science and analytics projects — from machine learning models to interactive business dashboards. Feel free to explore each folder!
+> I'm a Junior Data Analyst with a background in AI, Data Science & Generative AI (ELIS Innovation Hub, Rome) and Business Economics. I turn complex data into clear, actionable insights using Python, SQL, Power BI and Machine Learning.
+
+-  **Master – AI, Data Science & Generative AI** · ELIS Innovation Hub, Rome (2026)
+-  **Master's Degree in Tourism Economics** · University of Rome Tor Vergata (2026)
+-  **Bachelor's Degree in Business Administration** · RANEPA, Moscow (2022)
 
 ---
 
-## 🗂️ My Projects
+## My Projects
 
 | Project | Description | Tools |
 |---|---|---|
@@ -14,19 +18,10 @@
 | 🛒 [Data Analysis – E-commerce Olist](./data-analysis-ecommerce-olist) | In-depth EDA on 100k+ orders: sales trends, delivery, customer behaviour | Python, Pandas, Matplotlib |
 | 🤖 [Churn Analysis – Machine Learning](./churn-analysis-ml) | ML model to predict telecom churn · ROC-AUC 0.841 · Recall 81.8% | Python, Scikit-Learn, Pandas |
 
----
-
-## 🙋‍♀️ About Me
-
-I'm a Junior Data Analyst with a background in AI, Data Science & Generative AI (ELIS Innovation Hub, Rome) and Business Economics. I turn complex data into clear, actionable insights using Python, SQL, Power BI and Machine Learning.
-
-- 🎓 **Master – AI, Data Science & Generative AI** · ELIS Innovation Hub, Rome (2026)
-- 🎓 **Master's Degree in Tourism Economics** · University of Rome Tor Vergata (2026)
-- 🎓 **Bachelor's Degree in Business Administration** · RANEPA, Moscow (2022)
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 | Category | Tools |
 |---|---|
@@ -39,13 +34,13 @@ I'm a Junior Data Analyst with a background in AI, Data Science & Generative AI 
 
 ---
 
-## 🌍 Languages
+##  Languages
 
-🇷🇺 Russian (Native) · 🇬🇧 English (C1) · 🇮🇹 Italian (B2) · 🇨🇳 Chinese (B1)
+Italian (B2) · English (C1) · Chinese (B1) · Russian (Native) 
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamila-sh)
 - 📧 shahpazova.kamila@gmail.com
