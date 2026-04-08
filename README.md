@@ -1,6 +1,6 @@
 # Kamila Shakhpazova
 
-### Data Analyst | AI & Data Science | Python · SQL · Power BI
+### Data Analyst | AI & Data Science | Python · SQL · Power BI · ML
 
 > I'm a Junior Data Analyst with a background in AI, Data Science & Generative AI (ELIS Innovation Hub, Rome) and Business Economics. I turn complex data into clear, actionable insights using Python, SQL, Power BI and Machine Learning.
 
