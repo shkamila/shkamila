@@ -14,7 +14,7 @@ The final output is a data-driven action plan aimed at optimising revenue, recal
 
 ## Dataset
 
-- **Source**: Brazilian E-commerce Public Dataset by Olist — sourced from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- **Source**: Brazilian E-commerce Public Dataset by Olist sourced from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Tables used**: Orders, Customers, Items, Products, Reviews
 
 | Table | Rows | Columns |
@@ -34,7 +34,7 @@ The final output is a data-driven action plan aimed at optimising revenue, recal
 
 ### 1. Data Quality Assessment
 Each table was profiled for dimensions, missing values, duplicates, data types, and outliers (IQR method). Key findings:
-- `review_comment_message` (~59% missing) and `review_comment_title` (~88% missing) — expected behaviour, users leave star ratings without written feedback
+- `review_comment_message` (~59% missing) and `review_comment_title` (~88% missing) is expected behaviour, users leave star ratings without written feedback
 - Price and weight outliers confirmed as legitimate transactions (e.g., luxury watches in Relogios), not data entry errors
 
 ### 2. Data Cleaning
@@ -63,7 +63,7 @@ Each table was profiled for dimensions, missing values, duplicates, data types, 
 **Delivery Time vs. Customer Satisfaction:**
 - Pearson correlation between delivery days and review score: **-0.339** (moderate negative correlation)
 - Score 1 reviews have the widest delivery time distribution with frequent outliers beyond 30 days
-- Highest-risk states: Bahia (BA), Rio de Janeiro (RJ), Espirito Santo (ES) — median delivery ~16 days with extreme variance
+- Highest-risk states: Bahia (BA), Rio de Janeiro (RJ), Espirito Santo (ES) have median delivery ~16 days with extreme variance
 
 **Geographic Logistical Analysis:**
 - Delivery times segmented at state level to isolate logistical bottlenecks
