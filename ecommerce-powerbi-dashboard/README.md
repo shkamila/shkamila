@@ -8,7 +8,7 @@ The goal of this project is to transform raw transactional and logistical data f
 
 ## Dataset
 
-- **Source**: Brazilian E-commerce Public Dataset by Olist — sourced from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- **Source**: Brazilian E-commerce Public Dataset by Olist sourced from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Scope**: Delivered orders, 2017-2018
 - **Key metrics tracked**: Total revenue, order volume, customer count, average order value, delivery days, review scores
 
@@ -19,7 +19,7 @@ The goal of this project is to transform raw transactional and logistical data f
 The dashboard is organised into 4 pages accessible via the navigation panel on the left:
 
 ### 1. Panoramica (Overview)
-Top-level KPI cards: Total Revenue **5.39M** · Product Volume **43.1K** · Total Customers **37K** · Avg Order Value **141.20**
+Top-level KPI cards: Total Revenue 5.39M · Product Volume 43.1K · Total Customers 37K · Avg Order Value 141.20
 
 Visuals:
 - Clustered bar chart of total revenue by top 5 product categories (2017 vs 2018 comparison)
