@@ -14,9 +14,9 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| 📊 [E-commerce PowerBI Dashboard](./ecommerce-powerbi-dashboard) | Interactive dashboard to optimise revenue and customer satisfaction | Python, Excel, Power BI |
-| 🛒 [Data Analysis – E-commerce Olist](./data-analysis-ecommerce-olist) | In-depth EDA on 100k+ orders: sales trends, delivery, customer behaviour | Python, Pandas, Matplotlib |
-| 🤖 [Churn Analysis – Machine Learning](./churn-analysis-ml) | ML model to predict telecom churn · ROC-AUC 0.841 · Recall 81.8% | Python, Scikit-Learn, Pandas |
+| [E-commerce PowerBI Dashboard](./ecommerce-powerbi-dashboard) | Interactive dashboard to optimise revenue and customer satisfaction | Python, Excel, Power BI |
+| [Data Analysis – E-commerce Olist](./data-analysis-ecommerce-olist) | In-depth EDA on 100k+ orders: sales trends, delivery, customer behaviour | Python, Pandas, Matplotlib |
+| [Churn Analysis – Machine Learning](./churn-analysis-ml) | ML model to predict telecom churn · ROC-AUC 0.841 · Recall 81.8% | Python, Scikit-Learn, Pandas |
 
 
 ---
