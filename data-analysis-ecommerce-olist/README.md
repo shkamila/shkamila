@@ -73,11 +73,11 @@ Each table was profiled for dimensions, missing values, duplicates, data types, 
 
 ## Key Business Recommendations
 
-1. **Relogios & Presentes** — absorb a modest shipping cost increase to guarantee faster delivery; category has margin headroom and fast delivery drives 5-star reviews and lifetime value
-2. **Beleza & Saude** — maintain strict stock buffers; primary revenue source and replenishment predictability is critical
-3. **Cama, Mesa, Banho** — most exposed to logistical problems among top 5; rigorously optimise shipping costs to protect already thin margins
-4. **Informatica Acessorios** — discounting is not a sustainable strategy; focus on premium tech accessories with higher margins
-5. **Customer Experience** — implement an automatic trigger to send a discount coupon when an order enters the late zone (beyond 12 days), to pre-empt a 1-star review before the customer writes it
+1. Relogios & Presentes: absorb a modest shipping cost increase to guarantee faster delivery; category has margin headroom and fast delivery drives 5-star reviews and lifetime value
+2. Beleza & Saude: maintain strict stock buffers; primary revenue source and replenishment predictability is critical
+3. Cama, Mesa, Banho: most exposed to logistical problems among top 5; rigorously optimise shipping costs to protect already thin margins
+4. Informatica Acessorios: discounting is not a sustainable strategy; focus on premium tech accessories with higher margins
+5. Customer Experience: implement an automatic trigger to send a discount coupon when an order enters the late zone (beyond 12 days), to pre-empt a 1-star review before the customer writes it
 
 ---
 
