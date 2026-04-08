@@ -33,16 +33,16 @@ Visuals:
 
 ### 3. Geografia dei Clienti (Customer Geography)
 - Top 10 Brazilian states by order count (SP: 16.27K, RJ: 4.95K, MG: 4.48K)
-- Average delivery days by state bar chart — ranked from fastest (SP: ~8 days) to slowest (BA: ~20 days)
+- Average delivery days by state bar chart were ranked from fastest (SP: ~8 days) to slowest (BA: ~20 days)
 - Customer distribution world map (Microsoft Azure Maps)
 
 ### 4. Operazioni Logistiche (Logistical Operations)
-KPI cards: Avg Delivery Days **12** · Avg Review Score **4.09** · Total Reviews **38K**
+KPI cards: Avg Delivery Days 12 · Avg Review Score 4.09 · Total Reviews 38K
 
 Visuals:
 - Delivery speed trend (2017-2018): avg delivery days declining from ~12.4 to ~11.6
-- On-time vs late delivery donut chart: **92.02% on time**, 7.98% late
-- Avg review score comparison: on-time orders = **4.22**, late orders = **2.55**
+- On-time vs late delivery donut chart: 92.02% on time, 7.98% late
+- Avg review score comparison: on-time orders = 4.22, late orders = **2.55**
 - Avg review score by product category (horizontal bar chart)
 - Delivery impact on satisfaction: avg delivery days per review score (1-5 star scale)
 
